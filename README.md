@@ -11,3 +11,9 @@ Por último, con dicha información, realizar un informe. Este informe puede ser
 a través de la comparación entre elementos recolectados de las diferentes fuentes,
 estadísticos sobre las series de los datos o cualquier tipo de análisis del tipo Big Data o
 Machine Learning, como regresiones, proyecciones, etc.
+
+
+
+web con la que se va a trabajar:
+
+https://unidades-territoriales.obraspublicas.gob.ar/Localities
