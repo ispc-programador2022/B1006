@@ -1,0 +1,16 @@
+pip install  selenium
+
+
+
+
+from selenium  import  webdriver
+
+
+website =
+path =  del  crhomedriver ( ver donde esta)
+
+
+driver= webdriver.chrome(path)
+driver.get(website)
+
+
