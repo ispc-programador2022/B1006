@@ -19,8 +19,8 @@ soup= BeautifulSoup(content,'lxml')
 
 box = soup.find('div', class_='form-group-sm').get_text()   #este si!!!!
 
-#print(box)
+print(box)
 
-with open('prov.txt','w') as file:
-    file.write(box)
+#with open('prov.txt','w') as file:
+    #file.write(box)
 
